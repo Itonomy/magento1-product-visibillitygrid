@@ -54,6 +54,6 @@ Feel free to contribute or report issues in the issues list for this repository.
 
 - Updated to version 1.0.0 to achieve a first version
 
-## Special Thanks
+# Special Thanks
 
 * Jerrol Etheredge for creating the basis of this module.

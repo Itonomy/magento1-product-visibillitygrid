@@ -1,0 +1,9 @@
+app/code/local/Itonomy/ProductVisibilityGrid/Block/Adminhtml/Productvisibilitygrid/Product/Grid.php             app/code/local/Itonomy/ProductVisibilityGrid/Block/Adminhtml/Productvisibilitygrid/Product/Grid.php
+app/code/local/Itonomy/ProductVisibilityGrid/Block/Adminhtml/Productvisibilitygrid/Product.php                  app/code/local/Itonomy/ProductVisibilityGrid/Block/Adminhtml/Productvisibilitygrid/Product.php
+app/code/local/Itonomy/ProductVisibilityGrid/controllers/Adminhtml/Productvisibilitygrid/IndexController.php    app/code/local/Itonomy/ProductVisibilityGrid/controllers/Adminhtml/Productvisibilitygrid/IndexController.php
+app/code/local/Itonomy/ProductVisibilityGrid/etc/adminhtml.xml                                                  app/code/local/Itonomy/ProductVisibilityGrid/etc/adminhtml.xml
+app/code/local/Itonomy/ProductVisibilityGrid/etc/config.xml                                                     app/code/local/Itonomy/ProductVisibilityGrid/etc/config.xml
+app/code/local/Itonomy/ProductVisibilityGrid/Helper/Data.php                                                    app/code/local/Itonomy/ProductVisibilityGrid/Helper/Data.php
+app/code/local/Itonomy/ProductVisibilityGrid/Model/Product/Collection.php                                       app/code/local/Itonomy/ProductVisibilityGrid/Model/Product/Collection.php
+app/design/adminhtml/default/default/template/itonomy/productvisibilitygrid/product.phtml                       app/design/adminhtml/default/default/template/itonomy/productvisibilitygrid/product.phtml
+app/etc/modules/Itonomy_ProductVisibilityGrid.xml                                                               app/etc/modules/Itonomy_ProductVisibilityGrid.xml

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <menu>
+        <catalog>
+            <children>
+                <productvisibilitygrid translate="title" module="productvisibilitygrid">
+                    <title>Examine Product Visibility</title>
+                    <action>adminhtml/productvisibilitygrid_index</action>
+                    <sort_order>2</sort_order>
+                    <depends>
+                        <module>Itonomy_ProductVisibilityGrid</module>
+                    </depends>
+                </productvisibilitygrid>
+            </children>
+        </catalog>
+    </menu>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <catalog>
+                        <children>
+                            <productvisibilitygrid translate="title" module="itonomy_productvisibilitygrid">
+                                <title>Product Grid</title>
+                            </productvisibilitygrid>
+                        </children>
+                    </catalog>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Itonomy_ProductVisibilityGrid>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Itonomy_ProductVisibilityGrid>
+    </modules>
+</config>

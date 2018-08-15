@@ -17,7 +17,7 @@ This grid is making your life easier. It shows the different "visibility conditi
 * [Installation](#installation)
 * [Usage](#️usage)
 * [Version](#️version)
-* [Special Thanks](#️credits)
+* [Special Thanks](#credits)
 * [License](https://github.com/Itonomy/magento1-product-visibillitygrid/blob/master/LICENSE)
 
 # Requirements

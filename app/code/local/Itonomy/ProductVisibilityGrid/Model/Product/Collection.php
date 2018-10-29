@@ -129,8 +129,9 @@ class Itonomy_ProductVisibilityGrid_Model_Product_Collection extends Mage_Core_M
             }
 
             // The column in_flat_table should be true if the product is in all flat tables, otherwise false.
+            $orExp = !empty($columns) ? ' OR (' . implode(' AND ', $columns) . ')':'';
             $select->columns(array(
-                'in_flat_table' => new Zend_Db_Expr('false OR (' . implode(' AND ', $columns) . ')')
+                'in_flat_table' => new Zend_Db_Expr('false' . $orExp)')
             ));
         }
 
